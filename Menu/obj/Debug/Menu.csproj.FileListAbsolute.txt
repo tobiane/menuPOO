@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Alumno\Desktop\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Alumno\Desktop\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Alumno\Desktop\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Alumno\Desktop\Menu\Menu\obj\Debug\Menu.pdb
